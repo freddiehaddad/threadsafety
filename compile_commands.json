@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "D:\\Projects\\git\\queue",
+    "command": "cl /Zi /EHsc /std:c++20 /Fe:isthissafe isthissafe.cpp",
+    "file": "isthissafe.cpp"
+  }
+]
